@@ -1,2 +1,4 @@
 # hello-world
-Hello world repository
+Hello World
+I am Alex Conway
+A Computer Science student at GMU
